@@ -2,8 +2,9 @@
 
 <b>This is a sample website template for Jers AC Gym Equipment.</b>
 
-
-<img src="https://user-images.githubusercontent.com/78248093/231336443-e74d8157-713b-45e4-b63d-cc4ae82321b9.jpg" width="350"/>
+<center>
+  <img src="https://user-images.githubusercontent.com/78248093/231336443-e74d8157-713b-45e4-b63d-cc4ae82321b9.jpg" width="350"/>
+</center>
 
 <h3>About</h3>
 <p>JeRS AC Gym Equipment is a company specializing in the sales of gym and exercise equipment. The company was founded in August 2014 and is located in the Gyy Building, Kristong Hari, Tomas Morato, Quezon City, Philippines.
